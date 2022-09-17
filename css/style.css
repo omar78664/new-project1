@@ -128,7 +128,7 @@ img{
 
 .card .card-2:hover{
   cursor: pointer;
-  flex-grow: 5;
+  flex-grow: 3;
   transition: 0.1s linear
 }
 
